@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am a postdoctoral researcher at Stanford focusing on generative machine learning for cellular and molecular biology. I build models that integrate single cell and multi omics with spatial context to predict cellular responses and link molecular state to imaging phenotypes. I am excited to explore these methods into medical imaging and radiation oncology, contributing to AI for diagnosis, treatment planning, image reconstruction, and outcome prediction, and to projects that connect imaging physics with genomic data.
 
-View sherlock server usage [here](chansigit.github.io)
+View sherlock server usage [here](https://chansigit.github.io)
